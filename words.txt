@@ -1,0 +1,10 @@
+apple
+table
+chair
+house
+light
+water
+bread
+green
+happy
+music
